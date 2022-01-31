@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Betelgeusep
+- 👋 Hi, I’m Paola Medrano 
 - 👀 I’m interested in Cybersecurity and networks 
 - 🌱 I’m currently learning cloud computing
 - 💞️ I’m looking to collaborate on...
