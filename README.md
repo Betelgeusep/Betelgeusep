@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paola Medrano 
 - 👀 I’m interested in Cybersecurity and networks 
-- 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate on...
+- 🌱 I’m currently learning cloud computing and python
+- Content Creator on :yt:
 - 📫 How to reach me pmedrano566@gmail.com
 
 <!---
