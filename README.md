@@ -1,8 +1,10 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="https://a5gnet.com/wp-content/uploads/2021/08/img-v1.png">
 </picture>
+<br>
+
 # 💫 About Me:
 👋 Hi, I’m Paola Medrano<br>👀 I’m interested in Cybersecurity and network programming <br>🌱 I’m currently learning cloud computing and python<br>Content Creator on :yt:<br>📫 How to reach me pmedrano566@gmail.com
 
