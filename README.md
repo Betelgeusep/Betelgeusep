@@ -10,7 +10,11 @@
 
 ## 💫 About Me:
 
-I’m a recent graduate from a Bachelor of Engineer in networks and telecommunication,  passionate **Cybersecurity Junior Professional** with expertise in **Blue Team operations**, **SOC analysis**, and **Endpoint Detection and Response (EDR)**. I specialize in protecting digital infrastructures using advanced tools and frameworks like **Sangfor EDR**, **NIST guidelines**, and **AI-powered solutions**.I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I’m a recent graduate from a Bachelor of Engineer in networks and telecommunication,  passionate **Cybersecurity Junior Professional** with expertise in **Blue Team operations**, **SOC analysis**, and **Endpoint Detection and Response (EDR)**. Analyst.
+
+## Objective
+I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst, leveraging my foundational knowledge in threat detection, incident response, and endpoint protection. My goal is to contribute to organizational security by applying practical skills, continuous learning, and a proactive approach to identifying and mitigating cyber threats
+
 
 ## 🔍 Areas of Expertise
 - **Cybersecurity Operations:** Incident response, threat hunting, and vulnerability management.  
